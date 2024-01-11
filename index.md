@@ -11,3 +11,6 @@
 ```js 
 document.getElementById("userInput")
 ```
+- [X] Finish step 1
+- [ ] Finish step 2
+- [ ] Finish step 3

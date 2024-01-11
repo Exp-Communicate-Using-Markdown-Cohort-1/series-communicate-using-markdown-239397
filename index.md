@@ -11,6 +11,10 @@
 ```js 
 document.getElementById("userInput")
 ```
-- [X] Finish step 1
-- [ ] Finish step 2
-- [ ] Finish step 3
+
+- [ ] This is test number one
+- [ ] Oh wow it is smooth
+- [ ] It automatically adds the md code for me
+- [ ] This is easy to use
+- [ ] how do i cross it
+- [x] like this?
